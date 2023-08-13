@@ -1,3 +1,8 @@
+<div align=center >
+<a align=center href="#" target="_blank">
+    <img width="200px" src="./logo_circle.png"/>
+</a>
+</div>
 
 # FindMyGarage
 FindMyGarage is an innovative, AI-powered parking solution that revolutionizes the way we park our vehicles. With its robust and scalable architecture, FindMyGarage offers a cost-effective alternative to traditional parking systems while delivering unparalleled convenience and efficiency. This README file provides a comprehensive overview of FindMyGarage, highlighting its key features and benefits for both users and parking garage owners.
