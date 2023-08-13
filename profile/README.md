@@ -1,6 +1,6 @@
 <div align=center >
 <a align=center href="#" target="_blank">
-    <img width="200px" src="./logo_circle.png"/>
+    <img width="200px" src="../fml-logo.jpeg"/>
 </a>
 </div>
 
